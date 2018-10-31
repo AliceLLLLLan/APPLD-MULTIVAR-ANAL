@@ -1,2 +1,3 @@
-# APPLD-MULTIVAR-ANAL
-Learning goals of this course are logic and steps to multivariate analysis and formulating a scientific paper, which include: how to create data sets, distinguish among different types of variables, decide which methods to apply given the constraints of the data, conduct analyses and report findings. Other key objectives include: computation using statistical/mathematical software, data analysis, preparation tables, graphs, and summarizing results suitable for submission in refereed publications. Oral communication and presentation of research hypotheses to peers is also a fundamental component of advanced multivariate methods.
+# Project 1: 
+Data Set Creation 6-8 variables; Hypotheses; UNIVARIATE AND BIVARIATE
+Analysis; Results; Discussion 7-10 pages; can work alone or in groups of two.

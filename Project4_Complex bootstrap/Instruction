@@ -1,0 +1,5 @@
+•Determine which is the master program
+•Find a data set with 1 continuous dependent variable and 6 or more continuous independent variables (Auto in ISLR will do).
+•Split it along 1 variable, 9/10 and 1/10 (so 90% below a cut off, 10% above a cutoff.
+•Provide me the predictions and confidence bounds for the mean of the prediction  for the 1/10 vs the true values (1/10 is xnew, 9/10 is x). Xaxis is predicted Y,  y, and bounds plotted against the Y axis. (do this both with leaps and with lars)
+•Think about prediction bounds from elementary regression and discuss what you think may be going on in your plots. (what variability might be missing from your plots).

@@ -1,0 +1,3 @@
+–Build a confidence interval estimator for the mean based on the bootstrap (use 10000 =nboot)
+–Build a simulator that draws n samples form a lognormal distribution (rlnorm) and builds both the central limit theorem based confidence interval, and compares it to the coverage rate for the bootstrap (confidence interval based on the 1st program). (1000 simulation runs minimum)
+–Compare the coverage rates for the bootstrap confidence interval and the central limit theorem based confidence interval. For sample sizes 5, 10,15, and 30
